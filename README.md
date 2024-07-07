@@ -10,6 +10,10 @@ Another reason is that I change computers a lot, my own computer, my brother's c
 I converted my code into an exe file and put it on my flash drive and use it when I need it.
 
 **Used:**
+- You can move up and down with the arrow keys
+- Can perform the selection operation with Space
+- Enter to start the installation process
+
 ```bash
 pip install windows-curses
 ```
