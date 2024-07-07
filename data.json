@@ -6,14 +6,14 @@
             "selected": false
         },
         {
-            "label": "Node.js (OpenJS)",
+            "label": "NodeJs",
             "winget": "winget install -e --id OpenJS.NodeJS",
             "selected": false
         },
         {
             "label": "OBS Studio",
             "winget": "winget install -e --id OBSProject.OBSStudio",
-            "selected": true
+            "selected": false
         },
         {
             "label": "Obsidian",
@@ -21,7 +21,7 @@
             "selected": false
         },
         {
-            "label": "Brave taray\u00c4\u00b1c\u00c4\u00b1",
+            "label": "Brave",
             "winget": "winget install -e --id Brave.Brave",
             "selected": false
         },
@@ -36,7 +36,7 @@
             "selected": false
         },
         {
-            "label": "Opera GX taray\u00c4\u00b1c\u00c4\u00b1",
+            "label": "Opera GX",
             "winget": "winget install -e --id Opera.OperaGX",
             "selected": false
         },
