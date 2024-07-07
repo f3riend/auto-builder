@@ -1,0 +1,79 @@
+{
+    "packages": [
+        {
+            "label": "Python 3.11",
+            "winget": "winget install -e --id Python.Python.3.11",
+            "selected": false
+        },
+        {
+            "label": "Node.js (OpenJS)",
+            "winget": "winget install -e --id OpenJS.NodeJS",
+            "selected": false
+        },
+        {
+            "label": "OBS Studio",
+            "winget": "winget install -e --id OBSProject.OBSStudio",
+            "selected": true
+        },
+        {
+            "label": "Obsidian",
+            "winget": "winget install -e --id Obsidian.Obsidian",
+            "selected": false
+        },
+        {
+            "label": "Brave taray\u00c4\u00b1c\u00c4\u00b1",
+            "winget": "winget install -e --id Brave.Brave",
+            "selected": false
+        },
+        {
+            "label": "Git",
+            "winget": "winget install -e --id Git.Git",
+            "selected": false
+        },
+        {
+            "label": "GitHub Desktop",
+            "winget": "winget install -e --id GitHub.GitHubDesktop",
+            "selected": false
+        },
+        {
+            "label": "Opera GX taray\u00c4\u00b1c\u00c4\u00b1",
+            "winget": "winget install -e --id Opera.OperaGX",
+            "selected": false
+        },
+        {
+            "label": "Visual Studio Code",
+            "winget": "winget install -e --id Microsoft.VisualStudioCode",
+            "selected": false
+        },
+        {
+            "label": "JetBrains CLion",
+            "winget": "winget install -e --id JetBrains.CLion",
+            "selected": false
+        },
+        {
+            "label": "Visual Studio 2022 Community Preview",
+            "winget": "winget install -e --id Microsoft.VisualStudio.2022.Community.Preview",
+            "selected": false
+        },
+        {
+            "label": ".NET SDK Preview",
+            "winget": "winget install -e --id Microsoft.DotNet.SDK.Preview",
+            "selected": false
+        },
+        {
+            "label": "Unity 2022",
+            "winget": "winget install -e --id Unity.Unity.2022",
+            "selected": false
+        },
+        {
+            "label": "Unity Hub",
+            "winget": "winget install -e --id Unity.UnityHub",
+            "selected": false
+        },
+        {
+            "label": "Google Android Studio",
+            "winget": "winget install -e --id Google.AndroidStudio",
+            "selected": false
+        }
+    ]
+}
