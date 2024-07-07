@@ -9,7 +9,7 @@ Another reason is that I change computers a lot, my own computer, my brother's c
 
 I converted my code into an exe file and put it on my flash drive and use it when I need it.
 
-**Used: **
+**Used:**
 ```bash
 pip install windows-curses
 ```
